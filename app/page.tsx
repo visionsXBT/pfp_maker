@@ -7,7 +7,7 @@ export default function Page() {
         gog pfp maker
       </h1>
       <p className="mb-4">
-        {`PFP EDITOR`}
+        {`PFP maker`}
       </p>
       <div className="my-8">
         <BlogPosts />
