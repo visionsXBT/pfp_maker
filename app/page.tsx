@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        this is my pfp editor
+        gog pfp maker
       </h1>
       <p className="mb-4">
         {`PFP EDITOR`}
