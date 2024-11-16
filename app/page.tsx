@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        this is my pfp editor
       </h1>
       <p className="mb-4">
         {`PFP EDITOR`}
